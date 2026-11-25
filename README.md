@@ -146,9 +146,9 @@ Yes, with the No Prefix plan or User Premium.
 <a href="https://github.com/effcody">GitHub</a> · <a href="https://discord.com/users/1504991008860012604">Discord</a>
 </td>
 <td align="center" width="50%">
-<img src="https://github.com/princerjx.png" width="90" style="border-radius:50%;" /><br/>
+<img src="https://github.com/princetsx.png" width="90" style="border-radius:50%;" /><br/>
 <b>Bromobodilo</b><br/><sub>Lead Developer</sub><br/>
-<a href="https://github.com/princerjx">GitHub</a> · <a href="https://discord.com/users/1532786750567616555">Discord</a>
+<a href="https://github.com/princetsx">GitHub</a> · <a href="https://discord.com/users/1532786750567616555">Discord</a>
 </td>
 </tr>
 </table>
